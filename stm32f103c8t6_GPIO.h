@@ -1,8 +1,6 @@
 /*
  * stm32f103c8t6_GPIO.h
- *
- *  Created on: Feb 3, 2024
- *      Author: Truong Trong Nhan
+ * Author: Truong Trong Nhan
  */
 
 #ifndef INC_STM32F103C8T6_GPIO_H_
